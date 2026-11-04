@@ -68,7 +68,7 @@ struct LyncxsVault {
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LyncxsVault&show_icons=true&hide_border=false&border_color=7F1D1D&border_radius=14&bg_color=0D1117&title_color=FCA5A5&text_color=C9D1D9&icon_color=EF4444&ring_color=EF4444&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" width="100%"/>
+<img src="https://ghstats.dev/api/card?username=LyncxsVault&show_icons=true&hide_border=false&border_color=7F1D1D&border_radius=14&bg_color=0D1117&title_color=FCA5A5&text_color=C9D1D9&icon_color=EF4444&theme=dark" alt="GitHub stats" width="100%"/>
 
 </td>
 </tr>
@@ -125,7 +125,7 @@ struct LyncxsVault {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyncxsVault&hide_border=false&border_radius=14&background=0D1117&stroke=7F1D1D&ring=EF4444&fire=F97316&currStreakNum=FFFFFF&currStreakLabel=FCA5A5&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Streak" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyncxsVault&layout=donut&hide_border=false&border_color=7F1D1D&border_radius=14&bg_color=0D1117&title_color=FCA5A5&text_color=C9D1D9" alt="Top languages" height="170"/>
+<img src="https://ghstats.dev/api/langs?username=LyncxsVault&layout=donut&hide_border=false&border_color=7F1D1D&border_radius=14&bg_color=0D1117&title_color=FCA5A5&text_color=C9D1D9&theme=dark" alt="Top languages" height="170"/>
 
 </div>
 
@@ -144,6 +144,15 @@ struct LyncxsVault {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=LyncxsVault&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+
+</div>
+
+<!-- ═══════════════════════════ 3D CONTRIBUTIONS ═══════════════════════════ -->
+<h2 align="center">🗓️ 3D CONTRIBUTION CALENDAR</h2>
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-red.svg)
 
 </div>
 
