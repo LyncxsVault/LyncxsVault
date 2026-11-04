@@ -134,7 +134,7 @@ struct LyncxsVault {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LyncxsVault&custom_title=Security%20Development%20Activity&bg_color=0D1117&color=FCA5A5&line=EF4444&point=FFFFFF&area=true&area_color=EF4444&hide_border=true&radius=14" alt="Activity graph" width="100%"/>
+<img src="https://ghchart.rshah.org/FCA5A5/LyncxsVault" alt="LyncxsVault's Contribution Graph" width="100%"/>
 
 </div>
 
@@ -143,7 +143,7 @@ struct LyncxsVault {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LyncxsVault&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+<img src="./images/trophy.svg" alt="GitHub Trophies"/>
 
 </div>
 
