@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:EF4444,100:F97316&height=260&section=header&text=LYNCXS%20VAULT&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Secure%20by%20Default%20%C2%B7%20Privacy-First%20Engineering&descSize=19&descAlignY=60&descColor=FEE2E2" width="100%" alt="Lyncxs Vault banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:EF4444,100:F97316&height=260&section=header&text=LYNCXS%20VAULT&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Secure%20by%20Default%20-%20Privacy-First%20Engineering&descSize=19&descAlignY=60&descColor=FEE2E2" width="100%" alt="Lyncxs Vault banner"/>
 
 <a href="https://vault.lyncxs.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=F87171&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=40&lines=Security+intelligence+%C2%B7+Threat+detection+%F0%9F%94%90;Zero-trust+%C2%B7+End-to-end+encryption+%F0%9F%94%92;Skye+AI%3A+Security+copilot+%F0%9F%A4%96;Vulnerability+scanning+%C2%B7+Compliance+audits;Trust+through+verification,+not+assumption." alt="Typing animation"/>
@@ -144,15 +144,6 @@ struct LyncxsVault {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=LyncxsVault&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
-
-<!-- ═══════════════════════════ 3D CONTRIBUTIONS ═══════════════════════════ -->
-<h2 align="center">🗓️ 3D CONTRIBUTION CALENDAR</h2>
-
-<div align="center">
-
-![](./profile-3d-contrib/profile-red.svg)
 
 </div>
 
