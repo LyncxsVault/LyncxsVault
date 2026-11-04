@@ -138,15 +138,6 @@ struct LyncxsVault {
 
 </div>
 
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-<h2 align="center">🏆 GITHUB TROPHIES</h2>
-
-<div align="center">
-
-<img src="./images/trophy.svg" alt="GitHub Trophies"/>
-
-</div>
-
 <!-- ═══════════════════════════ 3D CONTRIBUTIONS ═══════════════════════════ -->
 <h2 align="center">🗓️ 3D CONTRIBUTION CALENDAR</h2>
 
