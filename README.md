@@ -143,7 +143,7 @@ struct LyncxsVault {
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-red.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
